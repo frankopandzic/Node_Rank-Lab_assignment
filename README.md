@@ -19,11 +19,9 @@ Graph input is given as followed:
  , where n is an integer (number of nodes in graph), β is a float type (probability of following
  the edges of a graph -> (1-β) is the probability of random teleportation from current node to 
  another node).
- 
 	After the first line comes n lines which describe edges of a given graph.
  i-th line states all the neighbor nodes of the i-th node.
  One node has a minimum of 1 neighbor and a maximum of 15 neighbors.
- 
 	After mentioned n lines comes integer Q which represents number of following queries.
  i-th line after Q input contains integers ni and ti. ni represents the index of the observed node while
  ti represents the wanted iteration of NodeRank algorithm in which we seek the rank of node ni.
