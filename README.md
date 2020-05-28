@@ -23,7 +23,7 @@ Graph input is given as followed:
  i-th line states all the neighbor nodes of the i-th node.
  One node has a minimum of 1 neighbor and a maximum of 15 neighbors.
 	After mentioned n lines comes integer Q which represents number of following queries.
- i-th line after Q input contains integers ni and ti. ni represents the index of the observed node while
+ i-th line after the Q input contains integers ni and ti. ni represents the index of the observed node while
  ti represents the wanted iteration of NodeRank algorithm in which we seek the rank of node ni.
  
  
