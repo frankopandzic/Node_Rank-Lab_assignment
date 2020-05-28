@@ -1,5 +1,5 @@
 # Node_Rank-Lab_assignment
-Calculating ranks of nodes of a given graph
+Calculating ranks of nodes of a given graph.
 
 Graph input is given as followed:
 
@@ -25,4 +25,18 @@ Graph input is given as followed:
 	After mentioned n lines comes integer Q which represents number of following queries.
  i-th line after Q input contains integers ni and ti. ni represents the index of the observed node while
  ti represents the wanted iteration of NodeRank algorithm in which we seek the rank of node ni.
+ 
+ 
+ 
+ Graph output is wanted as:
+ 
+	r1
+	r2
+	r3
+	...
+	rq
+
+ , where ri is the rank of the observed node of the appropriate query.
+ ri is rounded to 10 decimal places.
+
  
