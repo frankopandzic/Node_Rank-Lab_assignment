@@ -1,4 +1,4 @@
-# Node_Rank-Lab_assignment
+# NodeRank-LabAssignment
 Calculating ranks of nodes of a given graph.
 
 Graph input is given as followed:
